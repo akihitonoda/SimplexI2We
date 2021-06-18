@@ -4,6 +4,4 @@ A research article related to this project has been published in IEEE Access: ht
 
 ![](videos/Access-2021-10602_rev.mp4)
 
-![](figures/ACCESS_Noda_SI2We.gif)
-
 ![](figures/module.JPG)
