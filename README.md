@@ -8,5 +8,5 @@ This project presents Inter-IC for Wearables (I2We), which enables the simultane
 
 <img src="figures/SI2We_LedMatrix.gif" width="480px">
 
-<img src="figures/module.JPG" width="480px">
+<img src="figures/RxModule.svg" width="480px">
 
