@@ -24,7 +24,8 @@ Each carrier is simplly on-off-keying (OOK)-modulated with the SCL and SDA.
 
 ## Implementation
 
-An I2We implementation example presented in this repository 
+An I2We implementation example are shown below. 
+This repository includes PDF documents of the schematic diagram and the PCB patterns.
 
 <img src="figures/DemodSchem.svg" width="480px">
 
