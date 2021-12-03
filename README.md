@@ -8,8 +8,6 @@ This project presents Inter-IC for Wearables (I2We), which enables the simultane
 
 <img src="figures/SI2We_LedMatrix.gif" width="480px">
 
-<img src="figures/RxModule.svg" width="480px">
-
 ## Principle
 
 A pair of pin-and-socket connectors enable electrical connection between the circuit module and conductive textile transmission line at any arbitrary positions, as shown below.
@@ -24,3 +22,10 @@ Each carrier is simplly on-off-keying (OOK)-modulated with the SCL and SDA.
 
 <img src="figures/OokSchem.svg" width="480px">
 
+## Implementation
+
+An I2We implementation example presented in this repository 
+
+<img src="figures/DemodSchem.svg" width="480px">
+
+<img src="figures/RxModule.svg" width="480px">
