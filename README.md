@@ -10,3 +10,17 @@ This project presents Inter-IC for Wearables (I2We), which enables the simultane
 
 <img src="figures/RxModule.svg" width="480px">
 
+## Principle
+
+A pair of pin-and-socket connectors enable electrical connection between the circuit module and conductive textile transmission line at any arbitrary positions, as shown below.
+
+<img src="figures/connector.svg" width="270px">
+
+<img src="figures/CurrentPath.svg" width="480px">
+
+All the devices are parallel-connected to the single transmission line. 
+Two carrier frequencies are used to transfer the clock (SCL) and data (SDA) signals of the ordinary I2C bus. 
+Each carrier is simplly on-off-keying (OOK)-modulated with the SCL and SDA.
+
+<img src="figures/OokSchem.svg" width="480px">
+
