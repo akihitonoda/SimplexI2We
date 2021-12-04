@@ -1,0 +1,38 @@
+### Module positions - created on 01/25/18 19:56:14 ###
+### Printed by Pcbnew version kicad 4.0.6
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                Package                      PosX       PosY       Rot  Side
+C1        2200p              C_0402_NoSilk_F.Mask     149.0000   -98.1000    0.0000  top
+C2        220p               C_0402_NoSilk_F.Mask     150.1000  -106.8000    0.0000  top
+C3        10n                C_0402_NoSilk_F.Mask     147.8000   -95.0000    0.0000  top
+C4        100p               C_0402_NoSilk_F.Mask     147.0000  -105.4000    0.0000  top
+C5        0.1u               C_0402_NoSilk_F.Mask     146.5000   -99.0000  180.0000  top
+C6        0.1u               C_0402_NoSilk_F.Mask     148.2000  -108.7000  270.0000  top
+C7        10n                C_0402_NoSilk_F.Mask     147.5000   -97.1000  270.0000  top
+C8        10n                C_0402_NoSilk_F.Mask     147.4000  -108.7000  270.0000  top
+C9        10u                C_0402_NoSilk_F.Mask     144.2000  -101.7000  180.0000  top
+C10       10u                C_0402_NoSilk_F.Mask     144.3000  -103.8000  180.0000  top
+C11       0.1u               C_0402_NoSilk_F.Mask     148.1000  -100.7000    0.0000  top
+C12       0.1u               C_0402_NoSilk_F.Mask     151.7000  -103.4000  180.0000  top
+IC1       ADA4891-1ARJZ-R7   SOT95P280X145-5N_small   151.3000  -101.2000  180.0000  top
+IC2       LTC5507ES6#TRMPBF  SOT95P280X100-6N_small   145.0000   -96.6000    0.0000  top
+IC3       LTC5507ES6#TRMPBF  SOT95P280X100-6N_small   145.0000  -108.2000    0.0000  top
+L1        B82498F1372J       SIMID0805                149.7000   -96.4000  180.0000  top
+L2        B82498F1372J       SIMID0805                150.4000  -108.4000  180.0000  top
+L3        47u                C_0805_F.Mask            152.1000  -105.5000    0.0000  top
+Q1        BU5265HFV-TR       HVSOF5_longpad           142.2000   -99.5000  270.0000  top
+Q2        BU5265HFV-TR       HVSOF5_longpad           142.2000  -105.3000  270.0000  top
+R1        22k                R_0402_NoSilk_F.Mask     149.0000   -99.1000  180.0000  top
+R2        100k               R_0402_NoSilk_F.Mask     153.0000   -97.7000    0.0000  top
+R3        100k               R_0402_NoSilk_F.Mask     153.0000   -98.7000    0.0000  top
+R4        470k               R_0402_NoSilk_F.Mask     151.1000   -99.1000  180.0000  top
+R5        1k                 R_0402_NoSilk_F.Mask     151.1000   -98.1000    0.0000  top
+R6        1.8k               R_0402_NoSilk_F.Mask     152.1000  -106.8000    0.0000  top
+R7        470                R_0402_NoSilk_F.Mask     149.6000   -95.0000    0.0000  top
+R8        100                R_0402_NoSilk_F.Mask     148.9000  -105.4000    0.0000  top
+R9        22k                R_0402_NoSilk_F.Mask     144.6000   -99.7000    0.0000  top
+R10       22k                R_0402_NoSilk_F.Mask     144.3000  -105.8000    0.0000  top
+R11       470k               R_0402_NoSilk_F.Mask     144.2000  -100.7000  180.0000  top
+R12       470k               R_0402_NoSilk_F.Mask     144.3000  -104.8000  180.0000  top
+## End
