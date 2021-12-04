@@ -26,6 +26,7 @@ Each carrier is simplly on-off-keying (OOK)-modulated with the SCL and SDA.
 
 An I2We demodulator implementation example is shown below. 
 This repository includes PDF documents of the schematic diagram and the PCB patterns.
+The "gerber" folder includes the PCB garber files.
 
 <img src="figures/DemodSchem.svg" width="480px">
 
